@@ -1,23 +1,23 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://www.pngarts.com/files/13/Sofa-Couch-PNG-Clipart.png",
+      img: "https://www.pngarts.com/files/13/Chaise-Longue-PNG-Image.png",
       title: "SUMMER SALE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      desc: "GET 50% OFF YOUR FAVOURITE CHAISE LONGUE TODAY",
       bg: "f5fafd",
     },
     {
       id: 2,
-      img: "https://i.ibb.co/DG69bQ4/2.png",
-      title: "AUTUMN COLLECTION",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      img: "https://www.pngarts.com/files/12/Baby-Bed-PNG-Download-Image.png",
+      title: "BABY COLLECTION",
+      desc: "PERFECT STYLE FOR YOUR BABY! GET 30% OFF ON NEW ARRIVALS.",
       bg: "fcf1ed",
     },
     {
       id: 3,
-      img: "https://www.pngarts.com/files/12/Bookshelf-Transparent-Image.png",
-      title: "LOUNGEWEAR LOVE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      img: "https://www.pngarts.com/files/3/Closet-PNG-Pic.png",
+      title: "NEW ARRIVALS",
+      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 20% OFF ON NEW ARRIVALS.",
       bg: "fbf0f4",
     },
   ];
@@ -25,52 +25,52 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "SHIRT STYLE!",
+      img: "https://images.unsplash.com/photo-1615874694520-474822394e73?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGludGVyaW9yJTIwZGVjb3JhdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      title: "LIVING ROOM",
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "LOUNGEWEAR LOVE",
+      img: "https://images.unsplash.com/photo-1616486701797-0f33f61038ec?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGludGVyaW9yJTIwZGVjb3JhdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      title: "FINE DINING",
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      title: "LIGHT JACKETS",
+      img: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGludGVyaW9yJTIwZGVjb3JhdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      title: "STYLISH BEDROOM",
     },
   ];
 
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://www.pngarts.com/files/6/Dresser-Furniture-PNG-High-Quality-Image.png",
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://www.pngarts.com/files/6/Dresser-PNG-Photo.png",
     },
     {
       id:3,
-      img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+      img:"https://www.pngarts.com/files/11/Black-Modern-Table-PNG-Image.png",
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://www.pngarts.com/files/11/Wooden-Modern-Table-PNG-Transparent-Image.png",
     },
     {
       id:5,
-      img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+      img:"https://www.pngarts.com/files/13/Cozy-Couch-PNG-Transparent-Image.png",
     },
     {
       id:6,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+      img:"https://www.pngarts.com/files/13/Sofa-Couch-PNG-Pic.png",
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://www.pngarts.com/files/1/Cabinet-PNG-Free-Download.png",
     },
     {
       id:8,
-      img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+      img:"https://www.pngarts.com/files/12/Baby-Bed-PNG-Picture.png",
     },
   ]

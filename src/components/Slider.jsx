@@ -51,9 +51,9 @@ const ImgContainer = styled.div`
 `;
 
 const Image = styled.img`
-  height: 50%;
+  height: 80%;
   background-color: transparent;
-  margin-top: 35px;
+  
 `;
 
 const InfoContainer = styled.div`
@@ -108,7 +108,7 @@ const Button = styled.button`
             <InfoContainer>
               <Title>{item.title}</Title>
               <Desc>{item.desc}</Desc>
-              <Button>SHOW NOW</Button>
+              <Button>SHOP NOW</Button>
             </InfoContainer>
           </Slide>
         ))}
